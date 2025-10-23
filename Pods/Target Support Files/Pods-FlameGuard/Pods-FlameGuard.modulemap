@@ -1,0 +1,6 @@
+framework module Pods_FlameGuard {
+  umbrella header "Pods-FlameGuard-umbrella.h"
+
+  export *
+  module * { export * }
+}

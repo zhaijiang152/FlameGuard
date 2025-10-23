@@ -1,0 +1,30 @@
+PODS:
+  - EachNavigationBar (2.1.2)
+  - SDCycleScrollView (1.82):
+    - SDWebImage (>= 5.0.0)
+  - SDWebImage (5.21.3):
+    - SDWebImage/Core (= 5.21.3)
+  - SDWebImage/Core (5.21.3)
+  - SnapKit (5.7.1)
+
+DEPENDENCIES:
+  - EachNavigationBar
+  - SDCycleScrollView
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - EachNavigationBar
+    - SDCycleScrollView
+    - SDWebImage
+    - SnapKit
+
+SPEC CHECKSUMS:
+  EachNavigationBar: b7af5e748c405bbe0ba3fbaec297f87154355af9
+  SDCycleScrollView: a0d74c3384caa72bdfc81470bdbc8c14b3e1fbcf
+  SDWebImage: 16309af6d214ba3f77a7c6f6fdda888cb313a50a
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+
+PODFILE CHECKSUM: a004312fa74ad2e1627ad87d4f2f92ea390d605b
+
+COCOAPODS: 1.16.2
